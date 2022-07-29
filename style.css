@@ -1,0 +1,33 @@
+html{
+    height: 100%;
+}
+body{
+    background-color: antiquewhite;
+    background-image: url(starrysky.jpg);
+    background-size: cover;
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+header{
+    height: 118px;
+    text-align: center;
+    
+}
+
+nav{
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: rgba(0, 0, 0, 0.645);
+    text-align: center;
+    
+}
+
+nav a { text-decoration: none;
+    text-align: center;
+    color: rgb(198, 198, 198);
+    padding-left: 12px;
+    padding-right: 12px;
+}
